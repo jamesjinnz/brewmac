@@ -4,5 +4,5 @@ This repository contains a collection of Homebrew (Brew) "formulae" for Differen
 ## Installing Homebrew
 
 ```
-$ brew tap jamesjinnz/tap
+$ brew tap jamesjinnz/brewmac
 ```
